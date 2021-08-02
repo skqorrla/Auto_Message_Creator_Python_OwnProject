@@ -9,3 +9,6 @@ window.resizable(1,1)
 
 #윈도우창 무한 실행 
 window.mainloop()
+
+
+testtest
